@@ -1,155 +1,122 @@
 <div align="center">
 
-<!-- Premium single-file GitHub README. No external images, no external SVG services, no remote badges. -->
+# Szymon Szymczyna
 
-<br />
-
-<table>
-<tr>
-<td align="center" width="100%">
-
-# **Szymon Szymczyna**
-
-### Founder of **JiraSoft Digital Product Studio**  
+### Founder of [JiraSoft Digital Product Studio](https://jirasoft.pl)
 ### Senior Full-Stack Developer / Product Architect
 
-<br />
-
-**SaaS Platforms · Backend Systems · API Integrations · Business Automation · Digital Products**
+I build custom software for companies that need systems, not just screens.
 
 <br />
 
-<a href="https://jirasoft.pl"><strong>jirasoft.pl</strong></a>  
-<a href="mailto:szymon@jirasoft.pl"><strong>szymon@jirasoft.pl</strong></a>
-
-</td>
-</tr>
-</table>
+<a href="https://jirasoft.pl"><img src="https://img.shields.io/badge/Website-jirasoft.pl-0f766e?style=for-the-badge" alt="Website" /></a>
+<a href="mailto:szymon@jirasoft.pl"><img src="https://img.shields.io/badge/Email-szymon@jirasoft.pl-1f2937?style=for-the-badge" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=schymon17&style=for-the-badge&color=0f766e" alt="Profile views" />
 
 <br />
+<br />
 
-### I build software for companies that need systems, not just code.
-
-I design and develop scalable digital products, backend platforms, SaaS systems, integrations and automation tools that help companies turn complex operations into clear, reliable software.
+**SaaS Platforms · Laravel Architecture · Business Automation · API Integrations · B2B Systems · Mobile Products**
 
 </div>
 
-<br />
+---
+
+## What I Do
+
+I turn messy business workflows into clear, reliable digital products.
+
+My work sits between software engineering, product thinking and business operations. I help companies design, build and scale tools that replace spreadsheets, manual processes, disconnected systems and fragile integrations.
+
+```txt
+Business process -> Product architecture -> Backend logic -> Useful interface -> Automation -> Production system
+```
 
 ---
 
-<br />
-
-## 01. Profile
-
-I am **Szymon Szymczyna**, a senior full-stack developer, product architect and founder of **JiraSoft Digital Product Studio**.
-
-For over **10+ years**, I have been building web platforms, backend systems, SaaS products, integrations, internal tools and mobile applications for real business environments.
-
-My work sits between **engineering**, **product thinking** and **business operations**. I focus on software that is not only technically solid, but also useful, scalable and easy to operate.
-
-<br />
-
-> **Core direction:** turning complex business workflows into elegant digital products.
-
-<br />
-
----
-
-<br />
-
-## 02. JiraSoft
-
-<table>
-<tr>
-<td width="35%" valign="top">
-
-## **JiraSoft**
-### Digital Product Studio
-
-</td>
-<td width="65%" valign="top">
-
-**JiraSoft** builds custom digital products for companies that need serious software, not generic templates.
-
-The studio focuses on SaaS platforms, MVPs, B2B portals, backend systems, automation, API integrations and long-term product development.
-
-<br />
-
-**Website:** [jirasoft.pl](https://jirasoft.pl)
-
-</td>
-</tr>
-</table>
-
-<br />
-
----
-
-<br />
-
-## 03. What I Build
+## The Kind of Systems I Like Building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### SaaS Platforms
-
-Custom products with real business logic, permissions, dashboards, workflows, billing logic, reporting and scalable backend architecture.
+Custom platforms with roles, permissions, dashboards, billing logic, reporting, workflows and long-term product structure.
 
 </td>
 <td width="50%" valign="top">
 
 ### Backend Systems
-
-Reliable Laravel-based systems, APIs, queues, schedulers, jobs, data processing and production-grade business workflows.
+Laravel-based APIs, queues, schedulers, jobs, data processing, integrations and business rules that can survive real production use.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### Business Applications
-
-CRM, ERP-style platforms, internal tools, admin panels, reporting systems and automation for operational teams.
+CRM, ERP-style tools, internal platforms, admin panels, reporting systems and software for operational teams.
 
 </td>
 <td width="50%" valign="top">
 
 ### API Integrations
-
-External APIs, partner systems, payment providers, data synchronization, validation layers, monitoring and automation logic.
+Partner systems, payments, external APIs, data synchronization, validation layers, exports, monitoring and automation logic.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### B2B Portals
-
-Supplier, distributor, customer and partner platforms with structured data, pricing, products, orders and access control.
+Customer, distributor, supplier and partner portals with structured data, pricing, products, orders and access control.
 
 </td>
 <td width="50%" valign="top">
 
-### Mobile Products
-
-Cross-platform mobile apps connected with APIs, portals, business processes and operational data.
+### Mobile-Connected Products
+Mobile apps and portals connected with APIs, business processes and operational data.
 
 </td>
 </tr>
 </table>
 
-<br />
+---
+
+## Current Focus
+
+- SaaS product development from idea to production
+- Laravel backend architecture for complex business logic
+- B2B platforms, customer portals and internal tools
+- Automation for repetitive operational workflows
+- API integrations, exports, monitoring and data pipelines
+- Mobile products connected to real backend systems
+- Helping companies turn business knowledge into software
 
 ---
 
-<br />
+## Technology
 
-## 04. Technology
+<div align="center">
+
+### Core Stack
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js" />
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic" />
+<img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
+
+</div>
 
 <table>
 <tr>
@@ -180,8 +147,8 @@ Inertia.js
 Tailwind CSS
 JavaScript
 TypeScript
-Admin Panels
-Modern UI Systems
+Admin panels
+Design systems
 ```
 
 </td>
@@ -191,47 +158,28 @@ Modern UI Systems
 
 ```txt
 Docker
-Linux Servers
+Linux servers
 CI/CD
-API Architecture
+API architecture
 Automation
-System Design
+System design
 Ionic / Capacitor
-Mobile Apps
+Mobile apps
 ```
 
 </td>
 </tr>
 </table>
 
-<br />
-
-<div align="center">
-
-| Core | Product | Operations |
-|---|---|---|
-| Laravel | SaaS | Automation |
-| PHP | MVP | Integrations |
-| Vue | B2B Portals | Workflows |
-| PostgreSQL | CRM Systems | Data Processing |
-| Docker | Mobile Apps | API Monitoring |
-
-</div>
-
-<br />
-
 ---
 
-<br />
-
-## 05. Selected Work
+## Selected Work
 
 <table>
 <tr>
 <td width="30%" valign="top">
 
 ### Revend
-
 **DRS / Reverse Vending Systems**
 
 </td>
@@ -239,20 +187,14 @@ Mobile Apps
 
 Backend systems and integrations for reverse vending machines and deposit return workflows.
 
-Scope included transaction exports, DRS operator integrations, Laravel console commands, scheduled background jobs, machine-level data processing, API error monitoring and high-volume backend automation.
+Work included transaction exports, DRS operator integrations, Laravel console commands, scheduled background jobs, machine-level data processing, API error monitoring and high-volume backend automation.
 
 </td>
 </tr>
-</table>
-
-<br />
-
-<table>
 <tr>
 <td width="30%" valign="top">
 
 ### Inspirion
-
 **B2B Systems / CTO-level Work**
 
 </td>
@@ -264,16 +206,10 @@ Focus areas included API design, automation, workflow structure and long-term te
 
 </td>
 </tr>
-</table>
-
-<br />
-
-<table>
 <tr>
 <td width="30%" valign="top">
 
 ### Brewers
-
 **Mobile App & Portal**
 
 </td>
@@ -285,16 +221,10 @@ Work included app startup logic, API health checks, mobile UX improvements, port
 
 </td>
 </tr>
-</table>
-
-<br />
-
-<table>
 <tr>
 <td width="30%" valign="top">
 
 ### SEKOP 2
-
 **Large Internal System**
 
 </td>
@@ -308,127 +238,69 @@ Focus on clear module structure, practical development planning and long-term ma
 </tr>
 </table>
 
-<br />
-
 ---
 
-<br />
-
-## 06. Engineering Philosophy
-
-<div align="center">
-
-### Software should make business easier to control.
-
-</div>
-
-<br />
-
-Good software is not about adding more features.  
-It is about creating a system that is clear, stable and useful.
-
-The best products reduce manual work, expose the right data, automate repetitive decisions and give companies better control over their operations.
-
-<br />
-
-```txt
-Understand the workflow
-Design the architecture
-Build the core logic
-Automate repetitive work
-Keep the system scalable
-Make the product useful
-```
-
-<br />
-
----
-
-<br />
-
-## 07. How I Think About Product
+## How I Think About Product
 
 <table>
 <tr>
 <td width="25%" valign="top">
 
-### Discover
-
-Understand the business process, pain points, roles, data and real operational flow.
-
-</td>
-<td width="25%" valign="top">
-
-### Architect
-
-Design the system structure, core logic, modules, permissions and integration points.
+### 1. Understand
+Find the real workflow, the people using it, the data behind it and the cost of doing it manually.
 
 </td>
 <td width="25%" valign="top">
 
-### Build
-
-Develop stable backend, clean frontend and practical workflows that can be used in production.
+### 2. Architect
+Design modules, permissions, integrations, data flow and the core logic before the product grows messy.
 
 </td>
 <td width="25%" valign="top">
 
-### Scale
+### 3. Build
+Create stable backend logic, clean interfaces and workflows that can be used in production.
 
-Improve automation, reporting, monitoring, performance and maintainability over time.
+</td>
+<td width="25%" valign="top">
+
+### 4. Improve
+Automate repetitive work, add reporting, monitor integrations and make the system easier to operate.
 
 </td>
 </tr>
 </table>
 
-<br />
-
 ---
 
-<br />
-
-## 08. Current Focus
-
-```txt
-SaaS product development
-Laravel backend architecture
-B2B platforms
-Business automation
-Internal tools
-API integrations
-Mobile-connected systems
-Digital product strategy
-```
-
-<br />
-
----
-
-<br />
-
-## 09. Contact
+## GitHub Snapshot
 
 <div align="center">
 
-### Let’s build something serious.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=schymon17&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schymon17&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 
-<br />
+</div>
+
+---
+
+## When It Makes Sense To Talk
+
+- You have a business process that is too important to stay in spreadsheets.
+- You need a SaaS, B2B portal, internal tool or backend platform built properly.
+- You have APIs, exports or integrations that need to become reliable.
+- You want a technical partner who can think through product, architecture and implementation.
+
+---
+
+<div align="center">
+
+### Let's build a system that makes the business easier to control.
 
 **Szymon Szymczyna**  
 Founder / Senior Full-Stack Developer / Product Architect  
 **JiraSoft Digital Product Studio**
 
-<br />
-
-**Website:** [jirasoft.pl](https://jirasoft.pl)  
-**Email:** [szymon@jirasoft.pl](mailto:szymon@jirasoft.pl)
-
-<br />
-
----
-
-<br />
-
-**Building software that turns operational chaos into clear digital products.**
+[Website](https://jirasoft.pl) · [Email](mailto:szymon@jirasoft.pl)
 
 </div>
