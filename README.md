@@ -11,14 +11,46 @@ I build custom software for companies that need systems, not just screens.
 
 <a href="https://jirasoft.pl"><img src="https://img.shields.io/badge/Website-jirasoft.pl-0f766e?style=for-the-badge" alt="Website" /></a>
 <a href="mailto:szymon@jirasoft.pl"><img src="https://img.shields.io/badge/Email-szymon@jirasoft.pl-1f2937?style=for-the-badge" alt="Email" /></a>
+<a href="https://github.com/schymon17?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-334155?style=for-the-badge&logo=github" alt="Repositories" /></a>
 <img src="https://komarev.com/ghpvc/?username=schymon17&style=for-the-badge&color=0f766e" alt="Profile views" />
 
 <br />
 <br />
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=0F766E&center=true&vCenter=true&width=720&lines=SaaS+Platforms;Laravel+Architecture;Business+Automation;API+Integrations;B2B+Systems;Mobile-Connected+Products" alt="Typing intro" />
+
+<br />
+
 **SaaS Platforms · Laravel Architecture · Business Automation · API Integrations · B2B Systems · Mobile Products**
 
 </div>
+
+---
+
+## Fast Signal
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### I build
+Production-ready SaaS platforms, B2B portals, internal tools, backend systems and API-heavy products.
+
+</td>
+<td width="33%" valign="top">
+
+### I think in
+Business workflows, product architecture, data flow, automation, scalability and long-term maintainability.
+
+</td>
+<td width="33%" valign="top">
+
+### I work with
+Laravel, PHP, Vue, React, Inertia, Tailwind, PostgreSQL, MySQL, Redis, Docker, Linux and mobile stacks.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -31,6 +63,14 @@ My work sits between software engineering, product thinking and business operati
 ```txt
 Business process -> Product architecture -> Backend logic -> Useful interface -> Automation -> Production system
 ```
+
+---
+
+## Built For Search, Built For Work
+
+If you are looking for a **Laravel developer**, **PHP backend developer**, **full-stack developer**, **SaaS product architect**, **B2B portal developer**, **API integration specialist** or **business automation engineer**, this profile is probably in the right neighborhood.
+
+I usually work on products where the hard part is not only writing code, but understanding how the business actually operates.
 
 ---
 
@@ -280,7 +320,25 @@ Automate repetitive work, add reporting, monitor integrations and make the syste
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=schymon17&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schymon17&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 
+<br />
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=schymon17&hide_border=true&theme=transparent" alt="GitHub streak" />
+
+<br />
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=schymon17&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+
 </div>
+
+---
+
+## More Reasons To Visit
+
+- I use GitHub as a public signal for product thinking, engineering direction and technical experiments.
+- My work is mostly commercial, so the most interesting code is often private, but the profile shows the stack, direction and engineering taste.
+- The best entry point is usually [JiraSoft](https://jirasoft.pl), then the repositories tab for public experiments and examples.
 
 ---
 
@@ -301,6 +359,8 @@ Automate repetitive work, add reporting, monitor integrations and make the syste
 Founder / Senior Full-Stack Developer / Product Architect  
 **JiraSoft Digital Product Studio**
 
-[Website](https://jirasoft.pl) · [Email](mailto:szymon@jirasoft.pl)
+<a href="https://jirasoft.pl"><img src="https://img.shields.io/badge/Start_with-JiraSoft-0f766e?style=for-the-badge" alt="Start with JiraSoft" /></a>
+<a href="mailto:szymon@jirasoft.pl"><img src="https://img.shields.io/badge/Write_me-an_email-1f2937?style=for-the-badge" alt="Write me an email" /></a>
+<a href="https://github.com/schymon17?tab=repositories"><img src="https://img.shields.io/badge/Browse-public_repos-334155?style=for-the-badge&logo=github" alt="Browse public repos" /></a>
 
 </div>
