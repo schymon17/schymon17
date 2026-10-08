@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 520" width="1280" height="520" role="img" aria-label="Szymon Szymczyna – Founder of JiraSoft. I build systems, not just screens.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b14"/>
+      <stop offset="1" stop-color="#0b1524"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#14b8a6" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#14b8a6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#6366f1" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#99f6e4"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity=".7"/>
+      <stop offset=".5" stop-color="#334155" stop-opacity=".4"/>
+      <stop offset="1" stop-color="#818cf8" stop-opacity=".7"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect width="1280" height="520" rx="28"/></clipPath>
+  </defs>
+
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .a { animation: driftA 14s ease-in-out infinite alternate; }
+    .b { animation: driftB 18s ease-in-out infinite alternate; }
+    @keyframes driftA { to { transform: translate(120px, 60px); } }
+    @keyframes driftB { to { transform: translate(-140px, -50px); } }
+    .l { opacity: 0; animation: show 9s infinite; }
+    .l1 { animation-delay: .4s; } .l2 { animation-delay: 1.3s; } .l3 { animation-delay: 2.0s; }
+    .l4 { animation-delay: 2.7s; } .l5 { animation-delay: 3.6s; }
+    @keyframes show { 0% { opacity: 0; } 4%, 92% { opacity: 1; } 100% { opacity: 0; } }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .pulse { animation: pulse 2s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+    @keyframes pulse { 50% { opacity: .35; transform: scale(1.8); } }
+    @media (prefers-reduced-motion: reduce) {
+      .a, .b, .cur, .pulse { animation: none; }
+      .l { animation: none; opacity: 1; }
+    }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1280" height="520" fill="url(#bg)"/>
+    <circle class="a" cx="180" cy="80" r="360" fill="url(#glowA)"/>
+    <circle class="b" cx="1150" cy="470" r="380" fill="url(#glowB)"/>
+    <rect width="1280" height="520" fill="url(#grid)"/>
+  </g>
+  <rect x=".75" y=".75" width="1278.5" height="518.5" rx="27.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+
+  <!-- left: identity -->
+  <g class="mono" font-size="15" letter-spacing="2.5">
+    <circle class="pulse" cx="70" cy="83" r="5" fill="#2dd4bf"/>
+    <circle cx="70" cy="83" r="5" fill="#2dd4bf"/>
+    <text x="88" y="88" fill="#5eead4">JIRASOFT  ·  WROCŁAW, PL</text>
+  </g>
+
+  <text class="sans" x="62" y="176" font-size="68" font-weight="800" letter-spacing="-2" fill="url(#name)">Szymon Szymczyna</text>
+
+  <text class="sans" x="64" y="232" font-size="30" font-weight="600" fill="#e2e8f0">I build systems, <tspan fill="#64748b">not just screens.</tspan></text>
+
+  <text class="sans" x="64" y="282" font-size="19" fill="#94a3b8">Founder · Senior Full-Stack Developer · Product Architect</text>
+
+  <g class="mono" font-size="14" fill="#cbd5e1">
+    <rect x="64" y="318" width="76" height="34" rx="17" fill="#0f172a" fill-opacity=".7" stroke="#334155"/>
+    <text x="102" y="340" text-anchor="middle">SaaS</text>
+    <rect x="150" y="318" width="122" height="34" rx="17" fill="#0f172a" fill-opacity=".7" stroke="#334155"/>
+    <text x="211" y="340" text-anchor="middle">B2B portals</text>
+    <rect x="282" y="318" width="94" height="34" rx="17" fill="#0f172a" fill-opacity=".7" stroke="#334155"/>
+    <text x="329" y="340" text-anchor="middle">Laravel</text>
+    <rect x="386" y="318" width="158" height="34" rx="17" fill="#0f172a" fill-opacity=".7" stroke="#334155"/>
+    <text x="465" y="340" text-anchor="middle">API integrations</text>
+    <rect x="554" y="318" width="118" height="34" rx="17" fill="#0f172a" fill-opacity=".7" stroke="#334155"/>
+    <text x="613" y="340" text-anchor="middle">Automation</text>
+  </g>
+
+  <!-- right: terminal -->
+  <g transform="translate(772 62)">
+    <rect width="446" height="292" rx="16" fill="#020617" fill-opacity=".82" stroke="#1e293b" stroke-width="1.5"/>
+    <path d="M0 16a16 16 0 0 1 16-16h414a16 16 0 0 1 16 16v26H0z" fill="#0f172a" fill-opacity=".9"/>
+    <circle cx="24" cy="21" r="6" fill="#f87171"/>
+    <circle cx="44" cy="21" r="6" fill="#fbbf24"/>
+    <circle cx="64" cy="21" r="6" fill="#34d399"/>
+    <text class="mono" x="223" y="26" text-anchor="middle" font-size="13" fill="#64748b">~/jirasoft</text>
+
+    <g class="mono" font-size="16">
+      <text class="l l1" x="24" y="84" fill="#e2e8f0"><tspan fill="#2dd4bf">❯</tspan> ship --production</text>
+      <text class="l l2" x="24" y="124" fill="#94a3b8"><tspan fill="#34d399">✓</tspan> build      <tspan fill="#475569">passed</tspan></text>
+      <text class="l l3" x="24" y="156" fill="#94a3b8"><tspan fill="#34d399">✓</tspan> tests      <tspan fill="#475569">passed</tspan></text>
+      <text class="l l4" x="24" y="188" fill="#94a3b8"><tspan fill="#34d399">✓</tspan> migrate    <tspan fill="#475569">done</tspan></text>
+      <text class="l l5" x="24" y="236" fill="#5eead4" font-weight="700">● live on production</text>
+      <rect class="cur" x="24" y="254" width="10" height="20" fill="#2dd4bf"/>
+    </g>
+  </g>
+
+  <!-- bottom: stats -->
+  <line x1="64" y1="404" x2="1216" y2="404" stroke="#334155" stroke-opacity=".7"/>
+  <g class="sans">
+    <text x="64" y="456" font-size="34" font-weight="800" fill="#ffffff">10+</text>
+    <text x="64" y="482" font-size="15" fill="#94a3b8">years building software</text>
+
+    <text x="352" y="456" font-size="34" font-weight="800" fill="#ffffff">20+</text>
+    <text x="352" y="482" font-size="15" fill="#94a3b8">projects shipped</text>
+
+    <text x="640" y="456" font-size="34" font-weight="800" fill="#ffffff">7</text>
+    <text x="640" y="482" font-size="15" fill="#94a3b8">own products</text>
+
+    <text x="928" y="456" font-size="34" font-weight="800" fill="#ffffff">PL · DE · UK</text>
+    <text x="928" y="482" font-size="15" fill="#94a3b8">markets</text>
+  </g>
+</svg>
