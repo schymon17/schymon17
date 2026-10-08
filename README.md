@@ -1,366 +1,65 @@
 <div align="center">
+Szymon Szymczyna
 
-# Szymon Szymczyna
+Founder of JiraSoft · Senior Full-Stack Developer · Product Architect
 
-### Founder of [JiraSoft Digital Product Studio](https://jirasoft.pl)
-### Senior Full-Stack Developer / Product Architect
+I build software for companies that need systems, not just screens:<br> SaaS platforms, B2B portals, Laravel backends and API integrations that run in production.
 
-I build custom software for companies that need systems, not just screens.
+Website Email Portfolio
 
-<br />
+📍 Wrocław, Poland  ·  10+ years  ·  20+ shipped projects  ·  PL · DE · UK
 
-<a href="https://jirasoft.pl"><img src="https://img.shields.io/badge/Website-jirasoft.pl-0f766e?style=for-the-badge" alt="Website" /></a>
-<a href="mailto:szymon@jirasoft.pl"><img src="https://img.shields.io/badge/Email-szymon@jirasoft.pl-1f2937?style=for-the-badge" alt="Email" /></a>
-<a href="https://github.com/schymon17?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-334155?style=for-the-badge&logo=github" alt="Repositories" /></a>
-<img src="https://komarev.com/ghpvc/?username=schymon17&style=for-the-badge&color=0f766e" alt="Profile views" />
+<br> <a href="https://dppc.pl/"> <img src="https://jirasoft.pl/assets/portfolio/screenshots/dppc.webp" alt="DPPC – Digital Product Passport Cloud" width="820"> </a>
 
-<br />
-<br />
+<sub><b>DPPC</b> – Digital Product Passport Cloud, one of the products I designed and built at JiraSoft</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=0F766E&center=true&vCenter=true&width=720&lines=SaaS+Platforms;Laravel+Architecture;Business+Automation;API+Integrations;B2B+Systems;Mobile-Connected+Products" alt="Typing intro" />
+</div> <br>
+Products I've built
 
-<br />
+Own products from the JiraSoft product lab: designed, built and running.
 
-**SaaS Platforms · Laravel Architecture · Business Automation · API Integrations · B2B Systems · Mobile Products**
+<table> <tr> <td width="50%" valign="top"> <a href="https://dppc.pl/"><img src="https://jirasoft.pl/assets/products/screenshots/dppc.webp" alt="DPPC"></a> <h3><a href="https://dppc.pl/">DPPC</a></h3> <b>Digital Product Passport Cloud</b><br> Product data, compliance documents, public product cards and QR access for manufacturers and importers.<br><br> <code>Laravel</code> <code>Product data</code> <code>QR</code> <code>API</code> </td> <td width="50%" valign="top"> <a href="https://jirasoft.pl/tenderiq"><img src="https://jirasoft.pl/assets/products/screenshots/tenderiq.webp" alt="TenderIQ"></a> <h3><a href="https://jirasoft.pl/tenderiq">TenderIQ</a></h3> <b>Tender search and market monitoring</b><br> Finds and tracks active public tenders with CPV context, buyers and deadlines.<br><br> <code>Search</code> <code>Monitoring</code> <code>Data pipelines</code> </td> </tr> <tr> <td width="50%" valign="top"> <a href="https://jirachem.pl/"><img src="https://jirasoft.pl/assets/portfolio/screenshots/jirachem-2026.webp" alt="JiraChem"></a> <h3><a href="https://jirachem.pl/">JiraChem</a></h3> <b>B2B commerce platform</b><br> Product selection, customer panel, carts, quotes, orders, stock and admin workflows in one system.<br><br> <code>Laravel</code> <code>Inertia.js</code> <code>Vue</code> <code>B2B</code> </td> <td width="50%" valign="top"> <a href="https://dealerpilot.pl/"><img src="https://jirasoft.pl/assets/products/screenshots/dealerpilot.webp" alt="DealerPilot"></a> <h3><a href="https://dealerpilot.pl/">DealerPilot</a></h3> <b>CRM workflow for vehicle dealers</b><br> Lead handling, quoting, customer follow-up and visibility into the sales pipeline.<br><br> <code>CRM</code> <code>Leads</code> <code>Sales workflow</code> </td> </tr> <tr> <td width="50%" valign="top"> <a href="https://field-reports.greenaxe.pl/"><img src="https://jirasoft.pl/assets/products/screenshots/greenaxe-field-reports.webp" alt="GreenAxe Field Reports"></a> <h3><a href="https://field-reports.greenaxe.pl/">GreenAxe Field Reports</a></h3> <b>Field work reporting</b><br> Visits, notes, photos, PIN access and PDF summaries for gardening and maintenance crews.<br><br> <code>Field ops</code> <code>PDF reports</code> <code>Mobile-first</code> </td> <td width="50%" valign="top"> <a href="https://jirasoft.pl/demo-terracecraftstudio"><img src="https://jirasoft.pl/assets/products/screenshots/terracecraftstudio.webp" alt="Terrace Craft Studio"></a> <h3><a href="https://jirasoft.pl/demo-terracecraftstudio">Terrace Craft Studio</a></h3> <b>Service presentation and inquiry flow</b><br> Takes a visitor from inspiration to a qualified inquiry for terrace and garden services.<br><br> <code>Web product</code> <code>UX</code> <code>Lead flow</code> </td> </tr> </table>
 
-</div>
+Also: BrokerSync, a CRM/ERP for insurance brokers (clients, policies, tasks, reminders).
 
----
+Client work
+<table> <tr> <td width="50%" valign="top"> <a href="https://jirasoft.pl/portfolio/revend-integracje-rvm"><img src="https://jirasoft.pl/assets/portfolio/screenshots/revend-panel.webp" alt="Revend Panel"></a> <h3><a href="https://jirasoft.pl/portfolio/revend-integracje-rvm">Revend</a></h3> <b>Reverse vending machines and deposit return system</b><br> Operations panel and backend for RVM data: transaction exports, partner API integrations (Kaucja, Polka, Forcom, Reselect), scheduled jobs, log analysis and error monitoring.<br><br> <code>Laravel</code> <code>REST API</code> <code>Queues</code> <code>Docker</code> </td> <td width="50%" valign="top"> <a href="https://jirasoft.pl/portfolio/inspirion-gmbh"><img src="https://jirasoft.pl/assets/portfolio/screenshots/leo-api.webp" alt="LEO API / Inspirion"></a> <h3><a href="https://jirasoft.pl/portfolio/inspirion-gmbh">Inspirion / LEO API</a></h3> <b>B2B, e-commerce and API layer</b><br> CTO-level work on commercial B2B systems: backend architecture, product, pricing and variant data, customer integrations and order workflows.<br><br> <code>Laravel</code> <code>Vue</code> <code>API design</code> <code>E-commerce</code> </td> </tr> </table>
+Project	What it is	Stack
+Brewers Decorator Centres	Product portal, mobile app and e-commerce workflows for a UK retail network	Laravel · Vue · Ionic · Capacitor
+Seallecdis	Lead solution design for an industrial inspection and documentation platform	Product design · Backend · Data model
+OGV Energy	Media platform and mobile app for the oil, gas and energy community	Laravel · Vue · Ionic · MySQL
+Fabric / Aviva	Pension tracker for a regulated financial product	React · TypeScript · REST API
+SEKOP 2	Module structure and architecture for a large internal platform	System design · Domain modelling
 
-## Fast Signal
+Most of this code is commercial and private. Case studies live at jirasoft.pl/portfolio.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+What I do
+text
+Business process → Product architecture → Backend logic → Useful interface → Automation → Production
+SaaS platforms: roles, permissions, dashboards, billing logic, reporting
+B2B portals and CRM: pricing, catalogs, orders, customer and partner access
+Backend systems: Laravel APIs, queues, schedulers, data processing
+API integrations: ERP, PIM, e-commerce, payments, partner systems, exports and monitoring
+Legacy PHP modernization: tests, monitoring and staged releases without stopping the business
+Mobile-connected products: Ionic and Capacitor apps on top of real backends
+Stack
 
-### I build
-Production-ready SaaS platforms, B2B portals, internal tools, backend systems and API-heavy products.
+Backend<br> Show Image Show Image Show Image Show Image Show Image
 
-</td>
-<td width="33%" valign="top">
+Frontend<br> Show Image Show Image Show Image Show Image Show Image
 
-### I think in
-Business workflows, product architecture, data flow, automation, scalability and long-term maintainability.
+Mobile and infrastructure<br> Show Image Show Image Show Image Show Image Show Image
 
-</td>
-<td width="33%" valign="top">
+Let's talk
 
-### I work with
-Laravel, PHP, Vue, React, Inertia, Tailwind, PostgreSQL, MySQL, Redis, Docker, Linux and mobile stacks.
+It makes sense to get in touch if:
 
-</td>
-</tr>
-</table>
-
----
-
-## What I Do
-
-I turn messy business workflows into clear, reliable digital products.
-
-My work sits between software engineering, product thinking and business operations. I help companies design, build and scale tools that replace spreadsheets, manual processes, disconnected systems and fragile integrations.
-
-```txt
-Business process -> Product architecture -> Backend logic -> Useful interface -> Automation -> Production system
-```
-
----
-
-## Built For Search, Built For Work
-
-If you are looking for a **Laravel developer**, **PHP backend developer**, **full-stack developer**, **SaaS product architect**, **B2B portal developer**, **API integration specialist** or **business automation engineer**, this profile is probably in the right neighborhood.
-
-I usually work on products where the hard part is not only writing code, but understanding how the business actually operates.
-
----
-
-## The Kind of Systems I Like Building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### SaaS Platforms
-Custom platforms with roles, permissions, dashboards, billing logic, reporting, workflows and long-term product structure.
-
-</td>
-<td width="50%" valign="top">
-
-### Backend Systems
-Laravel-based APIs, queues, schedulers, jobs, data processing, integrations and business rules that can survive real production use.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Business Applications
-CRM, ERP-style tools, internal platforms, admin panels, reporting systems and software for operational teams.
-
-</td>
-<td width="50%" valign="top">
-
-### API Integrations
-Partner systems, payments, external APIs, data synchronization, validation layers, exports, monitoring and automation logic.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### B2B Portals
-Customer, distributor, supplier and partner portals with structured data, pricing, products, orders and access control.
-
-</td>
-<td width="50%" valign="top">
-
-### Mobile-Connected Products
-Mobile apps and portals connected with APIs, business processes and operational data.
-
-</td>
-</tr>
-</table>
-
----
-
-## Current Focus
-
-- SaaS product development from idea to production
-- Laravel backend architecture for complex business logic
-- B2B platforms, customer portals and internal tools
-- Automation for repetitive operational workflows
-- API integrations, exports, monitoring and data pipelines
-- Mobile products connected to real backend systems
-- Helping companies turn business knowledge into software
-
----
-
-## Technology
-
+a business process has outgrown spreadsheets and email approvals
+you need a SaaS, B2B portal or internal tool built properly
+your APIs, exports or integrations need to become reliable
+you want one technical partner for product, architecture and implementation
 <div align="center">
 
-### Core Stack
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js" />
-<img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic" />
-<img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
-
-</div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Backend
-
-```txt
-PHP 8.x
-Laravel 11 / 12
-REST APIs
-Queues & Jobs
-Schedulers
-PostgreSQL
-MySQL
-Redis
-```
-
-</td>
-<td width="33%" valign="top">
-
-### Frontend
-
-```txt
-Vue 3
-React
-Inertia.js
-Tailwind CSS
-JavaScript
-TypeScript
-Admin panels
-Design systems
-```
-
-</td>
-<td width="33%" valign="top">
-
-### Product & DevOps
-
-```txt
-Docker
-Linux servers
-CI/CD
-API architecture
-Automation
-System design
-Ionic / Capacitor
-Mobile apps
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## Selected Work
-
-<table>
-<tr>
-<td width="30%" valign="top">
-
-### Revend
-**DRS / Reverse Vending Systems**
-
-</td>
-<td width="70%" valign="top">
-
-Backend systems and integrations for reverse vending machines and deposit return workflows.
-
-Work included transaction exports, DRS operator integrations, Laravel console commands, scheduled background jobs, machine-level data processing, API error monitoring and high-volume backend automation.
-
-</td>
-</tr>
-<tr>
-<td width="30%" valign="top">
-
-### Inspirion
-**B2B Systems / CTO-level Work**
-
-</td>
-<td width="70%" valign="top">
-
-CTO-level technical work on commercial B2B systems, backend architecture, business logic, integrations and scalable software structure.
-
-Focus areas included API design, automation, workflow structure and long-term technical direction.
-
-</td>
-</tr>
-<tr>
-<td width="30%" valign="top">
-
-### Brewers
-**Mobile App & Portal**
-
-</td>
-<td width="70%" valign="top">
-
-Mobile and portal development using Ionic, Vue and Capacitor.
-
-Work included app startup logic, API health checks, mobile UX improvements, portal integrations and production-focused frontend architecture.
-
-</td>
-</tr>
-<tr>
-<td width="30%" valign="top">
-
-### SEKOP 2
-**Large Internal System**
-
-</td>
-<td width="70%" valign="top">
-
-Work around complex domain modules, business workflows, data structures, interface planning and system architecture for a large internal platform.
-
-Focus on clear module structure, practical development planning and long-term maintainability.
-
-</td>
-</tr>
-</table>
-
----
-
-## How I Think About Product
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-### 1. Understand
-Find the real workflow, the people using it, the data behind it and the cost of doing it manually.
-
-</td>
-<td width="25%" valign="top">
-
-### 2. Architect
-Design modules, permissions, integrations, data flow and the core logic before the product grows messy.
-
-</td>
-<td width="25%" valign="top">
-
-### 3. Build
-Create stable backend logic, clean interfaces and workflows that can be used in production.
-
-</td>
-<td width="25%" valign="top">
-
-### 4. Improve
-Automate repetitive work, add reporting, monitor integrations and make the system easier to operate.
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Snapshot
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=schymon17&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schymon17&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-
-<br />
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=schymon17&hide_border=true&theme=transparent" alt="GitHub streak" />
-
-<br />
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=schymon17&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
-
-</div>
-
----
-
-## More Reasons To Visit
-
-- I use GitHub as a public signal for product thinking, engineering direction and technical experiments.
-- My work is mostly commercial, so the most interesting code is often private, but the profile shows the stack, direction and engineering taste.
-- The best entry point is usually [JiraSoft](https://jirasoft.pl), then the repositories tab for public experiments and examples.
-
----
-
-## When It Makes Sense To Talk
-
-- You have a business process that is too important to stay in spreadsheets.
-- You need a SaaS, B2B portal, internal tool or backend platform built properly.
-- You have APIs, exports or integrations that need to become reliable.
-- You want a technical partner who can think through product, architecture and implementation.
-
----
-
-<div align="center">
-
-### Let's build a system that makes the business easier to control.
-
-**Szymon Szymczyna**  
-Founder / Senior Full-Stack Developer / Product Architect  
-**JiraSoft Digital Product Studio**
-
-<a href="https://jirasoft.pl"><img src="https://img.shields.io/badge/Start_with-JiraSoft-0f766e?style=for-the-badge" alt="Start with JiraSoft" /></a>
-<a href="mailto:szymon@jirasoft.pl"><img src="https://img.shields.io/badge/Write_me-an_email-1f2937?style=for-the-badge" alt="Write me an email" /></a>
-<a href="https://github.com/schymon17?tab=repositories"><img src="https://img.shields.io/badge/Browse-public_repos-334155?style=for-the-badge&logo=github" alt="Browse public repos" /></a>
+Start with JiraSoft Write me an email
 
 </div>
